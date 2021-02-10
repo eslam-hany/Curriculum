@@ -1,0 +1,85 @@
+body{
+   
+    margin: 0%;
+    padding: 0%;
+}
+.col-4{
+    background-color:#f3eff0;
+    margin-top: 20px;
+    border: 1px gainsboro solid;
+}
+.col-8{
+   
+    margin-top: 20px;
+    border: 1px gainsboro solid;
+}
+img{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background-color: gray;
+}
+.fas,.far{
+   font-size: 30px;
+    color: #009688;
+    display: flex;
+   
+}
+a{
+    text-decoration: none;
+    margin-left: 15px;
+
+}
+span{
+    padding-bottom: 7px;
+    padding-left: 5px;
+    color:grey;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 15px;
+}
+p{
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.form-control-range{
+   
+}
+.fass{
+    margin: 20px;
+    font-size: 50px;
+    color: #009688;
+    display: flex;
+}
+.head{
+    color:grey;
+    margin-left: 15px;
+}
+h5{
+    color: #009688;
+    margin-left: 10px;
+}
+.Job-description{
+    color: black;
+    font-size: 25px;
+    font-weight: normal;
+}
+.footer{
+    color: black;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+.fab{
+ margin-left: 350px;
+
+}
+.fabb,.fabbbb,.dfdfdfd{
+    margin-left:10px;
+
+}
+.jjjjj{
+    margin-left: 20px;
+}
